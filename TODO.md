@@ -22,6 +22,7 @@
 - [x] Build profile and tournaments pages with data fetching via React Query
 - [x] Implement Zustand stores and WebSocket hooks for real-time updates
 
+
 ## 📱 Mobile (Expo)
 - [ ] Initialize Expo SDK 52+ project under `apps/mobile`
 - [ ] Configure expo-router, TypeScript, and Tailwind RN with RTL support
