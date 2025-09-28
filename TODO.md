@@ -13,14 +13,15 @@
 - [x] Seed initial data fixtures and admin setup
 
 ## 🌐 Frontend Web (React)
-- [ ] Scaffold Vite + React + TypeScript project under `apps/web`
-- [ ] Configure TailwindCSS, shadcn/ui, and RTL support with Arabic localization
-- [ ] Implement global layout with theme toggle and Arabic typography
-- [ ] Build lobby page with live updates and matchmaking controls
-- [ ] Build game page with chessboard, move list, chat, and timers
-- [ ] Build authentication pages (login, register) with API integration
-- [ ] Build profile and tournaments pages with data fetching via React Query
-- [ ] Implement Zustand stores and WebSocket hooks for real-time updates
+- [x] Scaffold Vite + React + TypeScript project under `apps/web`
+- [x] Configure TailwindCSS, shadcn/ui, and RTL support with Arabic localization
+- [x] Implement global layout with theme toggle and Arabic typography
+- [x] Build lobby page with live updates and matchmaking controls
+- [x] Build game page with chessboard, move list, chat, and timers
+- [x] Build authentication pages (login, register) with API integration
+- [x] Build profile and tournaments pages with data fetching via React Query
+- [x] Implement Zustand stores and WebSocket hooks for real-time updates
+
 
 ## 📱 Mobile (Expo)
 - [ ] Initialize Expo SDK 52+ project under `apps/mobile`
